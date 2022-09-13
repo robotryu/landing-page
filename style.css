@@ -92,7 +92,7 @@ a:hover {
 /* INFORMATION SECTION */
 
 .info-section {
-  padding: 50px 0 120px 0;
+  padding: 50px 0 75px 0;
   margin: 0 175px 0 175px;
 }
 
@@ -128,4 +128,25 @@ h2 {
   color: #707070;
   font-weight: 800;
   font-size: 15px;
+}
+
+/* QUOTE SECTION */
+
+.quote-section {
+  background-color: #E5E7EB;
+  padding: 125px 300px 100px 300px;
+  /* margin: 0 175px 0 175px; */
+}
+
+.quote-section {
+  font-size: 36px;
+  font-weight: 100;
+  font-style: italic;
+  color: #1F2937;
+}
+
+.author {
+  margin-top: 25px;
+  font-weight: 800;
+  text-align: end;
 }
