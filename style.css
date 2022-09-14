@@ -82,11 +82,19 @@ a:hover {
 
 .hero-section button {
   background-color: #3179ee;
+  color: white;
+  border: 2px solid #3179ee;
   margin-top: 10px;
   font-weight: 700;
   font-size: 18px;
   padding: 10px 30px;
   border-radius: 15px;
+}
+
+.hero-section button:active {
+  border: 2px solid #3179ee;
+  background-color: white;
+  color: #3179ee;
 }
 
 /* INFORMATION SECTION */
@@ -149,4 +157,49 @@ h2 {
   margin-top: 25px;
   font-weight: 800;
   text-align: end;
+}
+
+/* CALL TO ACTION */
+.call-to-action {
+  background-color: white;
+}
+
+.cta-box {
+  display: flex;
+  flex-direction: row;
+  background-color: #3882F6;
+  border-radius: 10px;
+  color: white;
+  font-size: 18px;
+  margin: 100px 230px 120px 220px;
+  padding: 50px;
+}
+
+h3 {
+  font-weight: 800;
+  font-size: 26px;
+  padding-bottom: 5px;
+}
+
+.cta-button {
+  margin-left: auto;
+  margin-right: 75px;
+}
+
+.cta-box button {
+  background-color: #3179ee;
+  color: white;
+  border-color: white;
+  border: 2px solid white;
+  margin-top: 10px;
+  font-weight: 700;
+  font-size: 18px;
+  padding: 10px 30px;
+  border-radius: 15px;
+}
+
+.cta-box button:active {
+  border: 1px solid #3179ee;
+  background-color: white;
+  color: #3179ee;
 }
