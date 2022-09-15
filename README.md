@@ -1,8 +1,10 @@
-# INSTRUCTIONS
+# Link to view: https://robotryu.github.io/landing-page
+
+## INSTRUCTIONS
 1. The font that’s being used in the images is roboto.
 2. Hero text is the statement that appears at the top of a web page.
 
-## TIPS
+### TIPS
 1. The website you’re creating has 4 main sections (and a footer), so pick one and get it into pretty good shape before moving on. Starting at the top is always a solid plan.
 
 2. For the section you’re working on do the HTML and then do the CSS.
@@ -11,7 +13,7 @@
 
 4. Do not worry about making your project look nice on a mobile device. We’ll learn that later.
 
-### Viewing your project on the web
+#### Viewing your project on the web
 Make sure that the main HTML file of your project is called index.html. If it is not, you need to rename it.
 
 Go to your GitHub repo on the web and click the Settings button as shown in the screenshot below.Screenshot pointing to the Settings located in an example repository
